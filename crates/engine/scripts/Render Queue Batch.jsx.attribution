@@ -1,0 +1,7 @@
+asset:        Render Queue Batch.jsx
+title:        After Effects by Tony sample script (Render Queue Batch)
+author:       After Effects by Tony contributors
+source:       original work
+license:      MIT OR Apache-2.0
+added:        2026-10-03 by After Effects by Tony contributors (M13.1)
+notes:        Written from scratch for After Effects by Tony against the documented scripting behaviour; not derived from any Adobe sample.

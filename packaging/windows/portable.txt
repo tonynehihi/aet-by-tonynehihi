@@ -1,0 +1,12 @@
+After Effects by Tony portable mode
+
+While this file sits next to effectcraft.exe, After Effects by Tony keeps its settings, keyboard shortcuts,
+crash-recovery files, logs and plug-ins in the After Effects by Tony Data folder beside it instead of
+%APPDATA%\After Effects by Tony. Copy the whole folder to move After Effects by Tony with its settings.
+
+The disk cache, media cache and conformed audio still go to %LOCALAPPDATA%\After Effects by Tony unless
+you choose other folders in Edit > Preferences > Disk.
+
+Delete this file to use the normal per-user settings folder (%APPDATA%\After Effects by Tony) instead.
+If After Effects by Tony Data can't be written (for example on a read-only drive), After Effects by Tony logs a
+warning and uses %APPDATA%\After Effects by Tony instead.
